@@ -1,0 +1,41 @@
+body{
+background: linear-gradient(lightblue,Lightgreen);
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.travel_mainDiv{
+    border: 5px solid cyan;
+background-color: #3e64b6;
+
+}
+.travel_mainDiv img{
+    width: 50%;
+    border: 5px solid aquamarine;
+
+}
+.travel_mainDiv h5 .travel_mainDiv p{
+   margin: 30px;
+font-size:  30px;
+}
+.img{
+width: 20%;
+}
+.movie_head{
+font-size: 30px;
+padding: 6px 22px;
+border-radius: 10px;
+margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: aqua;
+}
+.book{
+    margin-bottom: 20px;
+}
+
+#contact iframe{
+width: 100%;
+}
